@@ -104,8 +104,8 @@ const info = {
       ],
     },
     {
-      position: "Full-Stack Developer ",
-      company: "B&B Associates LLP",
+      position: "Wordpress Developer",
+      company: "The Law Codes",
       duration: "March 2023 - Present",
       image: "ccci.webp",
       descriptions: [
