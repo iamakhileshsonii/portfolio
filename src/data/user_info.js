@@ -54,7 +54,7 @@ const info = {
       description:
         "Designed and developed a secure, user-friendly WordPress website for online therapy services. Focused on confidentiality, accessibility, and seamless user experience to connect individuals with India’s leading psychologists.",
       technologies: "PHP, MySQL, Wordpress",
-      link: "https://psychologyzone.in.com/",
+      link: "https://psychologyzone.in/",
     },
     {
       title: "London Jae Apparel",
