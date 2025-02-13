@@ -1,7 +1,7 @@
 import { BiLogoNetlify, BiLogoPostgresql, BiLogoTypescript } from "react-icons/bi";
 import { CgVercel } from "react-icons/cg";
-import { DiGithubAlt, DiMongodb } from "react-icons/di";
-import { FaDocker } from "react-icons/fa";
+import { DiGithubAlt, DiMongodb, DiWordpress } from "react-icons/di";
+import { FaDocker, FaShopify } from "react-icons/fa";
 import { FaAws, FaCss3Alt, FaDigitalOcean, FaGitAlt, FaGitlab, FaHtml5, FaNodeJs, FaPython, FaReact, FaVuejs } from "react-icons/fa6";
 import { IoLogoJavascript } from "react-icons/io";
 import { IoLogoFirebase } from "react-icons/io5";
@@ -70,6 +70,12 @@ function Skills() {
 				
 				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
           <DiMongodb className="text-2xl" /> MongoDB
+        </span>
+				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
+          <DiWordpress className="text-2xl" /> Wordpress
+        </span>
+				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
+          <FaShopify className="text-2xl" /> Shopify
         </span>
 				
       </div>

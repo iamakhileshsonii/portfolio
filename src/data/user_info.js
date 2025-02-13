@@ -42,6 +42,27 @@ const info = {
       technologies: "PHP, MySQL, Wordpress",
       link: "https://thelawcodes.com/",
     },
+    {
+      title: "The Hypedge",
+      description:
+        "Developed a fully responsive and visually engaging WordPress website for a creative agency. Ensured seamless performance, optimized user experience, and robust backend functionality.",
+      technologies: "PHP, MySQL, Wordpress",
+      link: "https://thehypedge.com/",
+    },
+    {
+      title: "Psychology Zone",
+      description:
+        "Designed and developed a secure, user-friendly WordPress website for online therapy services. Focused on confidentiality, accessibility, and seamless user experience to connect individuals with India’s leading psychologists.",
+      technologies: "PHP, MySQL, Wordpress",
+      link: "https://psychologyzone.in.com/",
+    },
+    {
+      title: "London Jae Apparel",
+      description:
+        "Developed a stylish and user-friendly Shopify store for a premium neckwear brand. Focused on seamless navigation, modern design, and an optimized shopping experience.",
+      technologies: "Shopify",
+      link: "https://londonjaeapparel.com/",
+    },
 
     {
       title: "LazyFame",
